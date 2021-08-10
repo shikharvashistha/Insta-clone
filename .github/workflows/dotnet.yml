@@ -29,7 +29,7 @@ jobs:
         dotnet-version: ${{ matrix.env }}
 
     - name: Install dependencies
-      working-directory: Foodey/
+      working-directory: src/
       run: dotnet restore
       
     - name: Build
