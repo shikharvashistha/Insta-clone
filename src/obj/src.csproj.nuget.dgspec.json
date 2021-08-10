@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alien\\OneDrive\\Desktop\\codes\\Insta-clone\\src\\src.csproj": {}
+    "C:\\Users\\Alien\\OneDrive\\Desktop\\codes\\Instagram-clone\\src\\src.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alien\\OneDrive\\Desktop\\codes\\Insta-clone\\src\\src.csproj": {
+    "C:\\Users\\Alien\\OneDrive\\Desktop\\codes\\Instagram-clone\\src\\src.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alien\\OneDrive\\Desktop\\codes\\Insta-clone\\src\\src.csproj",
+        "projectUniqueName": "C:\\Users\\Alien\\OneDrive\\Desktop\\codes\\Instagram-clone\\src\\src.csproj",
         "projectName": "src",
-        "projectPath": "C:\\Users\\Alien\\OneDrive\\Desktop\\codes\\Insta-clone\\src\\src.csproj",
+        "projectPath": "C:\\Users\\Alien\\OneDrive\\Desktop\\codes\\Instagram-clone\\src\\src.csproj",
         "packagesPath": "C:\\Users\\Alien\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alien\\OneDrive\\Desktop\\codes\\Insta-clone\\src\\obj\\",
+        "outputPath": "C:\\Users\\Alien\\OneDrive\\Desktop\\codes\\Instagram-clone\\src\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Alien\\AppData\\Roaming\\NuGet\\NuGet.Config"
